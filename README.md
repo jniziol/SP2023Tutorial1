@@ -20,3 +20,6 @@ In this project we are using:
 
 - [TailwindCSS](https://tailwindcss.com/) as our CSS framework.
 - [DaisyUI](https://daisyui.com/) for our TailwindCSS components
+- [Prisma](https://www.prisma.io/) to help us work with our database.
+- [ReactHookForm](https://www.react-hook-form.com/) to manage our forms.
+- [Yup](https://github.com/jquense/yup) for our validations
